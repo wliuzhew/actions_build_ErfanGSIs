@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V10.3.5.0.PDGCNXM/miui_MIMIX2S_V10.3.5.0.PDGCNXM_02ca33aec8_9.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://romdownload.nubia.com/%E7%BA%A2%E9%AD%94Mars/V2.35/NX619J-update.zip
+  ROM_NAME: Nubia
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
